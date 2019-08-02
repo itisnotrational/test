@@ -1,0 +1,5 @@
+total 4
+drwxr-xr-x 1 yoonseek 1049089 0 8월   2 15:58 ./
+drwxr-xr-x 1 yoonseek 1049089 0 8월   2 15:57 ../
+drwxr-xr-x 1 yoonseek 1049089 0 8월   2 15:58 .git/
+-rw-r--r-- 1 yoonseek 1049089 0 8월   2 15:58 test.txt
